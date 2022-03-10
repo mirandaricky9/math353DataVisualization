@@ -10,4 +10,5 @@ These questions provide for a great discussion amongst the powerlifting communit
 
 ## What is the motivation for this project? Why did I choose this project specifically?
 I chose this project because ever since I graduated high school, I have dedicated a lot of time to lifting, specifically taking on a training style very similar to powerlifting. I started in June 2017 and have been lifting since (except for the time when gyms were shut down due to COVID-19). During that time, I have become somewhat well-versed in the sport of powerlifting and have also engaged with the community, following prominent figures in the sport for years now. I have not yet competed in the sport but I am scheduled to compete at the USA California State Championships 2022. You can find the website with my name on the roster here: https://liftingcast.com/meets/mkgs2jl9dyli/results
+
 I am competing in the Men's Raw Juniors (20-23) Division in the 100 kg weight class.
