@@ -1,9 +1,10 @@
 # Worklog for Ricky Miranda 
 ### Math 353 w/ Professor Bryant
 Note: This worklog will be organized in chronological order with most recent logs at the top (to avoid the nuisance of having to scroll all the way down). 
-Total Hours: (12 hrs)
+Total Hours: (15.5 hrs)
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
+| 4/24/2022 14:00 to 17:30 (3.5 hr)| Making a final paper to showcase the results that were found with the datapoints that were used in one specific meet. |
 | 4/17/2022 15:00 to 20:00 (5 hr) | Imported more formulas that are used as strength measurements and formatted so that the scores are calculated for the newly inputed lifters as well as the old ones. Imported the excel data into R and created a script that plots both mens' and womens' scores against their weight in different colors. Currently working on trying to get a bigger database to work with from openpowerlifting.org |
 | 4/16/2022 16:00 to 17:00 (1 hr) | Worked on grading contract. Also used python to import a hundred more datapoints to look at. |
 | 3/14/2022 17:50 to 19:50 (2 hr) | Organizing data on excel to make it easier to import and use on R. Used to have one sheet full of data but I am now separating them into different sheets based on the different categories. The categories are men and women and each one has squat, bench, deadlift, and total. Also imported new data regarding a specific meet to look at multiple different competitors at the same weight class. All data has been made import friendly into R and is ready to be looked at.|
