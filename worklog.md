@@ -4,6 +4,7 @@ Note: This worklog will be organized in chronological order with most recent log
 Total Hours: (17.0 hrs)
 | Date & Time           |   Notes/Task completed |
 | --------------------- | ---------------------- |
+|05/2/2022 14:30 to  | Made final edits regarding projects and took into consideration the suggestions. |
 | 4/26/2022 14:30 to 16:00 (1.5) | Made a few edits regarding the paper for the final project. The edits that were made were suggestions given by Professor Bryant. |
 | 4/24/2022 14:00 to 17:30 (3.5 hr)| Making a final paper to showcase the results that were found with the datapoints that were used in one specific meet. |
 | 4/17/2022 15:00 to 20:00 (5 hr) | Imported more formulas that are used as strength measurements and formatted so that the scores are calculated for the newly inputed lifters as well as the old ones. Imported the excel data into R and created a script that plots both mens' and womens' scores against their weight in different colors. Currently working on trying to get a bigger database to work with from openpowerlifting.org |
