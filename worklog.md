@@ -2,8 +2,8 @@
 ### Math 353 w/ Professor Bryant
 Note: This worklog will be organized in chronological order with most recent logs at the top (to avoid the nuisance of having to scroll all the way down). 
 Total Hours: (20.0 hrs)
-| Date & Time           |   Notes/Task completed |
-| --------------------- | ---------------------- |
+| Date & Time             |   Notes/Task completed   |
+| :---------------------: | :----------------------: |
 |05/2/2022 14:30 to 17:30 (3 hr) | Made final edits regarding projects and took into consideration the suggestions. |
 | 4/26/2022 14:30 to 16:00 (1.5 hr) | Made a few edits regarding the paper for the final project. The edits that were made were suggestions given by Professor Bryant. |
 | 4/24/2022 14:00 to 17:30 (3.5 hr)| Making a final paper to showcase the results that were found with the datapoints that were used in one specific meet. |
