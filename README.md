@@ -1,7 +1,7 @@
 # Math 353 - Probability and Statistics (Data Visualization Project)
 
 ## What is this repository for?
-This repository was made to keep track of all the files I work with on this project as well as keeping a worklog of the work that I do.
+This repository was made to keep track of all the files I work with on this project as well as keeping a worklog of the work that I do. The final project can be found in the TexFiles folder labeled 'project.pdf'.
 
 ## What is this project about? What are the goals for this project?
 This project is about looking at the data provided to us by the United States of America Powerlifting Association (USAPL) databases. Specificially, I will be looking at the all time records for the federation and preparing a visualization of the data regarding how strength is measured across all different weight classes. Some commons questions that are constantly brought up in conversation regarding overall strength are ones such as: how should strength be measured? Who is the strongest of all time regardless of weight class? What strength measuring system is best? 
